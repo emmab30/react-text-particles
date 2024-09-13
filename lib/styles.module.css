@@ -1,0 +1,11 @@
+.particleContainer {
+    position: relative;
+}
+
+.particle {
+    width: 3px;
+    height: 3px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+}
